@@ -1,0 +1,18 @@
+.footer {
+  height: 180px;
+  /*margin: auto;*/
+  background: #2C2B2B;
+  color: darkgrey;
+  text-align: center;
+  padding-top: 2%;
+ /* display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;*/
+}
+
+.footer a {
+  color: #71DE89;
+  font-size: 30px;
+  padding: 0 10px;
+}
